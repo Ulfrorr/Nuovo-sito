@@ -1,0 +1,145 @@
+.container {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 150px;
+  background-color: #EDEAED;
+
+}
+
+.demo {
+    width: 109px;
+    height: 28px;
+    padding: 10px 11px;
+    border-radius: 8px;
+    background-color: #ff4438;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    color: #ffffff;
+    
+}
+.contentdelivery {
+    width: 1200px;
+    margin: auto;
+      display: flex;
+  justify-content: space-between;
+    
+}
+
+.delivery {
+    font-size: 17px;
+    color: #1100FF;
+}
+
+.titledelivery {
+       font-size: 48px;
+    font-weight: bold; 
+}
+
+.subtitledelivery {
+            font-size: 22px;
+    margin-bottom: 60px;
+    
+}
+
+.titleready {
+    padding-bottom: 20px;
+    font-size: 48px;
+    font-weight: bold;
+    text-align:center
+}
+
+.contentoffice2 {
+   width: 1000px;
+   margin: auto;
+   display: flex;
+   justify-content: space-between; 
+}
+
+.office2{
+       font-size: 17px;
+    color: #1100FF; 
+}
+
+.titleoffice2 {
+           font-size: 30px;
+    font-weight: bold; 
+}
+
+.subtitleoffice2 {
+    font-size: 16px;
+}
+.example {
+    padding: 0 30px
+}
+
+.roba {
+    padding-left: 500px;
+}
+
+.titledigital {
+    width: 400px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold; 
+}
+
+.subtitledigital {
+    width: 430px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    color: 	#747074;  
+}
+
+.iflex {
+  width: 700px;
+  display: flex;
+  justify-content: space-between; 
+}
+
+.contentoffice {
+        width: 1200px;
+    margin: auto;
+      display: flex;
+  justify-content: space-between; 
+    background-color: #FFCEBF;
+
+}
+
+.titleoffice {
+    font-size: 45px;
+    padding-top: 50px;
+    padding-left: 20px;
+    font-weight: bold;
+    padding-bottom: 3px; 
+}
+
+.subtitleoffice {
+    
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 70px;
+}
+
+.content {
+            width: 1200px;
+    margin: auto;
+      display: flex;
+  justify-content: space-between; 
+}
+
+.title {
+        font-size: 20px;
+     font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.si {
+    font-size: 16px;
+    padding-bottom: 15px;
+    color: #A1A1A1;
+}
